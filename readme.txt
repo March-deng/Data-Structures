@@ -1,4 +1,3 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes.
+基本数据结构的C++实现
+环境：Code::BlocksIDE
+编译器：GCC/C++11
